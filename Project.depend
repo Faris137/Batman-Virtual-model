@@ -1,0 +1,57 @@
+# depslib dependency file v1.0
+1454154422 source:e:\my projects\graphicsproject\project\cglabmain.cpp
+	"CGLabxx.hpp"
+	<cstdlib>
+	<iostream>
+	<iomanip>
+	<cmath>
+	<GL/glut.h>
+	"CGLabmain.hpp"
+	"Loader.hpp"
+
+1447312976 e:\my projects\graphicsproject\project\cglabmain.hpp
+	<string>
+	<cmath>
+	<iostream>
+	<GL/glut.h>
+
+1454517089 source:e:\my projects\graphicsproject\project\loader.cpp
+	<GL/glut.h>
+	<string>
+	<fstream>
+	"Loader.hpp"
+	<sstream>
+
+1454517117 e:\my projects\graphicsproject\project\loader.hpp
+	"CGLabmain.hpp"
+	<string>
+	<vector>
+
+1454154422 source:c:\users\fares\downloads\project\project\cglabmain.cpp
+	"CGLabxx.hpp"
+	<cstdlib>
+	<iostream>
+	<iomanip>
+	<cmath>
+	<GL/glut.h>
+	"CGLabmain.hpp"
+	"Loader.hpp"
+
+1447312976 c:\users\fares\downloads\project\project\cglabmain.hpp
+	<string>
+	<cmath>
+	<iostream>
+	<GL/glut.h>
+
+1454517116 c:\users\fares\downloads\project\project\loader.hpp
+	"CGLabmain.hpp"
+	<string>
+	<vector>
+
+1454517088 source:c:\users\fares\downloads\project\project\loader.cpp
+	<GL/glut.h>
+	<string>
+	<fstream>
+	"Loader.hpp"
+	<sstream>
+

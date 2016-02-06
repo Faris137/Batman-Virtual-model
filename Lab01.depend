@@ -1,0 +1,56 @@
+# depslib dependency file v1.0
+1447314130 source:e:\codeblock_projects\lab01\cglab01.cpp
+	<GL/glut.h>
+	<string>
+	<fstream>
+	"CGLab01.hpp"
+
+1447313256 e:\codeblock_projects\lab01\cglab01.hpp
+	"CGLabmain.hpp"
+	<string>
+	<vector>
+
+1447312976 e:\codeblock_projects\lab01\cglabmain.hpp
+	<string>
+	<cmath>
+	<iostream>
+	<GL/glut.h>
+
+1447314046 source:e:\codeblock_projects\lab01\cglabmain.cpp
+	"CGLabxx.hpp"
+	<cstdlib>
+	<iostream>
+	<iomanip>
+	<cmath>
+	<GL/glut.h>
+	"CGLabmain.hpp"
+	"CGLab01.hpp"
+
+1454067972 source:e:\my projects\graphicsproject\lab01\cglab01.cpp
+	<GL/glut.h>
+	<string>
+	<fstream>
+	"CGLab01.hpp"
+	<sstream>
+
+1454067994 e:\my projects\graphicsproject\lab01\cglab01.hpp
+	"CGLabmain.hpp"
+	<string>
+	<vector>
+
+1447312976 e:\my projects\graphicsproject\lab01\cglabmain.hpp
+	<string>
+	<cmath>
+	<iostream>
+	<GL/glut.h>
+
+1447314046 source:e:\my projects\graphicsproject\lab01\cglabmain.cpp
+	"CGLabxx.hpp"
+	<cstdlib>
+	<iostream>
+	<iomanip>
+	<cmath>
+	<GL/glut.h>
+	"CGLabmain.hpp"
+	"CGLab01.hpp"
+
